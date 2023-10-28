@@ -1,2 +1,4 @@
 github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
 github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/mirandafialho/goarea v0.0.0-20231028013856-3528b8561efb h1:ih7XEKndMwmEkMTC6tYAfshRRH/CVmEwbhNJms8yrTg=
+github.com/mirandafialho/goarea v0.0.0-20231028013856-3528b8561efb/go.mod h1:8I85R5pJIgK3yN5wqub1a/hGKsxN+ygFQ/7HAOa5XHc=
